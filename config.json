@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceencrypt",
+        "uuid": 13160165,
+        "checksum": "9zz0w"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
